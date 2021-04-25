@@ -24,4 +24,4 @@ Horizontal line is up
 
 [a link to you repo](https://github.com/vladimir-shirmanov/git-tut)
 
-![el gato](https://yt3.ggpht.com/ytc/AAUvwniJgjzdIVenzELXq5i-bQEKluRiMCUaO0O3Qlpz1Q=s900-c-k-c0x00ffffff-no-rj)
+![el gato](https://d3544la1u8djza.cloudfront.net/APHI/Blog/2020/07-23/How+Much+Does+It+Cost+to+Have+a+Cat+_+ASPCA+Pet+Insurance+_+black+cat+with+yellow+eyes+peeking+out-min.jpg)
