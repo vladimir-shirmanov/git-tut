@@ -24,4 +24,6 @@ Horizontal line is up
 
 [a link to you repo](https://github.com/vladimir-shirmanov/git-tut)
 
+[visual studio git ignore file](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
+
 ![el gato](https://d3544la1u8djza.cloudfront.net/APHI/Blog/2020/07-23/How+Much+Does+It+Cost+to+Have+a+Cat+_+ASPCA+Pet+Insurance+_+black+cat+with+yellow+eyes+peeking+out-min.jpg)
