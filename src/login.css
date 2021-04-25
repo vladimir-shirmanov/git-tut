@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+
+    background: #eee;
+}
+
+.img-left {
+    min-width: 60%;
+}
+
+.img-left img {
+    height: 100vh;
+}
+
+.content-right {
+    display: flex;
+    align-items: center;
+    flex: 1 0 0;
+}
+
+.login-form {
+    width: 300px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+    margin-bottom: 20px;
+}
+
+.btn-login {
+    width: 280px;
+    margin: 0 10px;
+}
+
+input {
+    width: 100%;
+}
